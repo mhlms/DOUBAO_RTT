@@ -5,6 +5,7 @@
 [![AutoHotkey v2.0](https://img.shields.io/badge/AutoHotkey-v2.0-green.svg)](https://www.autohotkey.com/)
 
 一个专为 **豆包（Doubao）** 实时双语字幕设计的轻量级辅助工具。它能让豆包字幕窗口**置顶显示、鼠标穿透、整体半透明**，方便你在观看外语视频、会议或学习时，既能看清字幕，又不遮挡背后的内容。
+ **AutoHotkey v2.0是一个脚本软件，不推荐与带反作弊游戏（如：ACE,EAC）同时使用** 
 
 ---
 
