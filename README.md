@@ -8,6 +8,8 @@
 
  **AutoHotkey v2.0是一个脚本软件，不推荐与带反作弊游戏（如：ACE,EAC）同时使用** 
 
+**你可以使用[SeeThroughWindows](https://github.com/mhlms/SeeThroughWindows-dist/releases)这款软件。**
+
 ---
 
 ## ✨ 核心功能
